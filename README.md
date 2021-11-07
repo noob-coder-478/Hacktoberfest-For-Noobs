@@ -1,6 +1,6 @@
 # Welcome to  Hacktoberfest For Noobs!
 
-![acm hacktoberfest banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbBEfeoL3PADDGdPCFHT_AWMv_EducQXA0A&usqp=CAU)
+![acm hacktoberfest banner](https://dynamic.thoughtworks.com/landing_pages/social_image-c0b487e5e16be25afe303267bc8b35d2.png)
 
 ## About Hacktoberfest
 
